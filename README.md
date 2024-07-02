@@ -1,13 +1,4 @@
-# Tictactoe Android App <a href="https://github.com/Abdullah-Sheikh"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Abdullah-Sheikh&style=flat-square" width="125"/></a>[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#) [![GitHub Forks](https://img.shields.io/github/forks/Abdullah-Sheikh/Tictactoe_in_Android.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/Abdullah/Tictactoe_in_Android//fork)[![GitHub Issues](https://img.shields.io/github/issues/Abdullah-Sheikh/Tictactoe_in_Android/.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/Abdullah-Sheikh/management-System/issues)[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
-
-
-
-
-
-https://user-images.githubusercontent.com/62107887/130690253-f670eb6f-33ff-4abf-9353-dfc867808554.mp4
-
-
-
+# Tictactoe Android App
 
 
 
@@ -32,10 +23,6 @@ In this Tic Tac Toe game you have two options:
 -> Play with Friend
 
 The Tic Tac Toe is a great way to pass your free time whether you're standing in a line or spending time with your kids. Its offline App means you do not need of internet to play. Because of the simplicity of Tic Tac Toe, it is often used as a pedagogical tool for teaching the concepts of good sportsmanship and the branch of artificial intelligence.
-
-
-
-<a href="https://play.google.com/store/apps/details?id=com.techsoldev.tictactoegame" target="_blank"> <img src="https://user-images.githubusercontent.com/62107887/130696039-68b4276e-8b78-4eb6-8aa9-ac2ac681e828.png" width="150" height="70" > </a>
 
 
 
