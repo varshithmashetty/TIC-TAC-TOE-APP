@@ -41,15 +41,6 @@ The Tic Tac Toe is a great way to pass your free time whether you're standing in
 
 
 
-
-
-
-
-
-feel free to Star or Fork it and make your changes , then make pull request.
-
-We will appreciate your Changes and Review it 😄
-
 <div align="center">
 	<br>
 	<br>
